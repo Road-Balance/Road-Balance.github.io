@@ -1,44 +1,35 @@
-## Welcome to GitHub Pages
+<body>
 
-You can use the [editor on GitHub](https://github.com/Road-Balance/Road-Balance.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1> About </h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```markdown 
+Road Balance 팀은 로봇의 하드웨어와 이를 제어하는 소스코드까지 제공합니다
 
-### Markdown
+```
+<br><a href="About.md" class="more">[더보기..]</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--------------------
+
+<h1> Project </h1>
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-## This is 정재
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-```html
-<head>Hello Hello</head>
-
+Road Balance가 만들어가는 로봇의 미래를 확인하세요!
 ```
 
-**Bold** and _Italic_ and `Code` text
+<br><a href="project.md" class="more">[더보기..]</a>
 
-[Link](url) and ![Image](src)
+--------------------
+
+<h1> News </h1>
+
+```markdown
+Road Balance가 가져온 새로운 소식을 확인하세요!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br><a href="News.md" class="more">[더보기..]</a>
 
-### Jekyll Themes
+--------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Road-Balance/Road-Balance.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
