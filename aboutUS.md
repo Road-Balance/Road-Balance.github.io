@@ -8,7 +8,7 @@
 
 # About us
 
-![logo.png](./image/logo.jpg)
+![logo.jpg](/logo.jpg)
 
 ## 도로를 달리는 로봇을 꿈꾸다
 
