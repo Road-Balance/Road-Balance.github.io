@@ -1,17 +1,12 @@
-
-
 # About 
-
  
 <br>**Road Balance** 팀은 로봇의 하드웨어와 이를 제어하는 소스코드를 제공합니다
 
-
-<br><a href="aboutUS.md" class="more">[About us]</a>
-<br><a href="members.md" class="more">[Members]</a>
-<br><a href="history.md" class="more">[History]</a>
-
+[About us](./pages/aboutUS.md)
+[Members](./pages/members.md)
 
 ---
+
 # Project
 
 
